@@ -1,0 +1,34 @@
+{
+    "cars": [
+        {
+            "name": "Lamborguini",
+            "year": "2012",
+            "Automatic": "Automatic",
+            "id": 1
+        },
+        {
+            "name": "Ferrari",
+            "year": "2010",
+            "Automatic": "Automatic",
+            "id": 2
+        },
+        {
+            "name": "Limousine",
+            "year": "2005",
+            "Automatic": "Automatic",
+            "id": 4
+        },
+        {
+            "name": "Tesla",
+            "year": "2021",
+            "Automatic": "Automatic",
+            "id": 5
+        },
+        {
+            "name": "Batmobile",
+            "year": "2022",
+            "Automatic": "Automatic",
+            "id": 6
+        }
+    ]
+}
